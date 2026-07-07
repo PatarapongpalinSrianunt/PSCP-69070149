@@ -72,7 +72,8 @@ Also explain the input, output, and important constraints.
 
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
-```text กำหนดรับ Input รับข้อความภาษาอังกฤษ สลับลำดับจากหลังมาหน้าด้วย [::-1] และแปลงเป็นตัวพิมพ์เล็กด้วย .lower()และแสดงผลลัพธ์
+```text
+กำหนดรับ Input รับข้อความภาษาอังกฤษ สลับลำดับจากหลังมาหน้าด้วย [::-1] และแปลงเป็นตัวพิมพ์เล็กด้วย .lower()และแสดงผลลัพธ์
 ```
 
 ---
